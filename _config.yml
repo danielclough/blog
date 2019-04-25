@@ -10,7 +10,7 @@ description: All about me.
 
 # Where can people find your site?
 url: "https://danielclough.github.io"
-baseurl: ""
+baseurl: "/blog"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
