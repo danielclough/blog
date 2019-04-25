@@ -1,0 +1,13 @@
+---
+layout: default
+title: food
+thumbnail: breakfast-orange-lemon-oranges-large.jpg
+---
+
+
+{% for post in site.categories.food %}
+  <div class='listing'>
+    <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+  </div>
+{% endfor %}

@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<div>
+  {% include _head.html %}
+<!-- {% include nav.html %} -->
+
+</div>
+
+<body>
+<!--    <main id="panel">
+      <button class='toggle-button'><span class='bar'></span><span class='bar'></span><span class='bar'></span></button>
+      <div class='content-wrap'> -->
+      	                    
+    {{ content }}
+          </div>
+    </main>
+<div>
+  {% include _footer.html %}
+</div>
+
+</body>
+</html>
+

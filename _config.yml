@@ -1,0 +1,22 @@
+# Default, Defaults
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: Daniel Clough
+email: Fill Out Form
+description: All about me.
+
+# Where can people find your site?
+url: "https://danielclough.github.io"
+baseurl: ""
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter: tradingtea
+facebook: immodestea
+
+author: Daniel Clough
+authorBio: Photographer, Brand Ambassador, Professional Tea Lover.
