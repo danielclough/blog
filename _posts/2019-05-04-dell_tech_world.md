@@ -25,20 +25,15 @@ author: Daniel Clough
 ![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/57467825_426648571226985_1899250111842615296_n.jpg?_nc_cat=102&_nc_eui2=AeESffokrd2PI4x0TfwgVjXfjsfwVohslg-U9hj4og4y5gMqoUX86fRbVoo3jcTCODhR7xZWUcknri49psmmb6z1A8iiaD66EgOyX_r_hD4_0g&_nc_ht=scontent.flas1-2.fna&oh=5def3b260e14fee79d28647b8ee14e5e&oe=5D74E784#right)
 
 
-![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59599971_426647274560448_783416410045939712_n.jpg?_nc_cat=110&_nc_eui2=AeEzhdwF_ZzOCVf786SHMnK6Po9t67G2szY_46y5ZT1mLUKSNNuDOLSE1ZaIJZx8S8rZVqpViKAnV-TuPmVPV9FjPt_jpjmHiSdbdD90ZQ6xcg&_nc_ht=scontent.flas1-2.fna&oh=ef52f9b5a419dc4a02d84d99b41e6d14&oe=5D2D74EB#left)
-![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59690613_426647534560422_2799938383407742976_n.jpg?_nc_cat=105&_nc_eui2=AeHLBP9TCFU405MB4XIFSSKhONxYQPrM4BKKxQDqpNTD_z-t1itDAy4D_bNZbIL8SvB_YPMbGiThs5A-3bLtELutQdfhILQNm90lrZ53fB6NQA&_nc_ht=scontent.flas1-2.fna&oh=320d31e55bed0c9cf72003528be448a0&oe=5D2B0AA5#right)
-
-![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59129557_426647504560425_7964232524979240960_n.jpg?_nc_cat=105&_nc_eui2=AeFYNHJR4n6ElUK1EKReil9S4_k_M51cT5a38Alpn1Rol0iGsB3tcnmusS1F0W-B75T2tO6m-rRVgiuvpAxe9yA9YwBzl0wYGjIYqwOk20bW4w&_nc_ht=scontent.flas1-2.fna&oh=d801a9a84bc73ffd75d825ca17636178&oe=5D61DFBF#left)
-![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59285598_426649007893608_7510288326134333440_n.jpg?_nc_cat=101&_nc_eui2=AeHg0bgOfZcBXw8PFMUNwfuO70yZBrcQIu9SAgOE8wyTx49qyHzzyU2EH4htPPk0dn6ZBsXPu-qJwiCwY6R84Tq5jxlGEsrJ-NRfKaIeR-vVFw&_nc_ht=scontent.flas1-2.fna&oh=ed751de972562a291498f9cc2cb4123b&oe=5D6BDD6E#right)
-
-
-
 ### Alienware ESports Arena
 
 The coolest thing at the event was undoubtedly the Alienware ESports Arena.
 That is true from a technological standpoint as well as Wow Factor if you include the Area 51m demonstration.
 
 I would so love one of those Alienware Aurora desktop computers!
+
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59599971_426647274560448_783416410045939712_n.jpg?_nc_cat=110&_nc_eui2=AeEzhdwF_ZzOCVf786SHMnK6Po9t67G2szY_46y5ZT1mLUKSNNuDOLSE1ZaIJZx8S8rZVqpViKAnV-TuPmVPV9FjPt_jpjmHiSdbdD90ZQ6xcg&_nc_ht=scontent.flas1-2.fna&oh=ef52f9b5a419dc4a02d84d99b41e6d14&oe=5D2D74EB#left)
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59690613_426647534560422_2799938383407742976_n.jpg?_nc_cat=105&_nc_eui2=AeHLBP9TCFU405MB4XIFSSKhONxYQPrM4BKKxQDqpNTD_z-t1itDAy4D_bNZbIL8SvB_YPMbGiThs5A-3bLtELutQdfhILQNm90lrZ53fB6NQA&_nc_ht=scontent.flas1-2.fna&oh=320d31e55bed0c9cf72003528be448a0&oe=5D2B0AA5#right)
 
 ### Fenway Park 
 
@@ -47,6 +42,10 @@ Runner up.
 ### And, Hawaii
 
 Why not?
+
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59129557_426647504560425_7964232524979240960_n.jpg?_nc_cat=105&_nc_eui2=AeFYNHJR4n6ElUK1EKReil9S4_k_M51cT5a38Alpn1Rol0iGsB3tcnmusS1F0W-B75T2tO6m-rRVgiuvpAxe9yA9YwBzl0wYGjIYqwOk20bW4w&_nc_ht=scontent.flas1-2.fna&oh=d801a9a84bc73ffd75d825ca17636178&oe=5D61DFBF#left)
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/59285598_426649007893608_7510288326134333440_n.jpg?_nc_cat=101&_nc_eui2=AeHg0bgOfZcBXw8PFMUNwfuO70yZBrcQIu9SAgOE8wyTx49qyHzzyU2EH4htPPk0dn6ZBsXPu-qJwiCwY6R84Tq5jxlGEsrJ-NRfKaIeR-vVFw&_nc_ht=scontent.flas1-2.fna&oh=ed751de972562a291498f9cc2cb4123b&oe=5D6BDD6E#right)
+
 
 ### Infinity Room
 
@@ -73,4 +72,5 @@ I'm impressed.
 
 Filling up the space with text is really important, and I'm sure that you really want to read all about everything.
 
-Meh. Enough words.
+Maybe later posts will be more interesting.
+Enough words for now.
