@@ -36,8 +36,8 @@ Diego played passionately to a mellow soundtrack.
 
 I felt awkward pulling out my light to take the picture. Without a tripod, and without my beloved D750 - I just can't pump the ISO for a decent shot, so I pulled out my "like wow" bright light. I got the light after talking with John Curtas about the need for good light, he uses a very nice selfie ring, which is small and curious compared to my massive portable studio light. I don't know nearly as much about food as he does, so I'm leaning on the value of good photography, and Wikipedia. 
 
-![](https://scontent.flas1-1.fna.fbcdn.net/v/t1.0-9/58372895_421343295090846_3377949850833256448_o.jpg?_nc_cat=110&_nc_ht=scontent.flas1-1.fna&oh=8df03f8192b5145b6307b38a2ffe65f9&oe=5D3F592E#left)
-![](https://scontent.flas1-1.fna.fbcdn.net/v/t1.0-9/57486126_421261365099039_2847679663617081344_o.jpg?_nc_cat=104&_nc_ht=scontent.flas1-1.fna&oh=7af1435dc2a85d806696740b16afcbd7&oe=5D33DB06#right)
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/58461884_421261368432372_4043972319209586688_n.jpg?_nc_cat=110&_nc_eui2=AeF6K15qKbTTsNRR_lbJS7dqxJxDdJto-w1Q_gCQW-ddLvF1lxVa7_wHcgXsE3iNcfSkUmSAUewWDUlI_1zq8BvHvEv-o08pdXqQB2swXK6eKA&_nc_ht=scontent.flas1-2.fna&oh=a4d3f65c65f25886d1a14457e2bc9979&oe=5D6A165A#left)
+![](https://scontent.flas1-2.fna.fbcdn.net/v/t1.0-9/58675102_421343291757513_1251168469185986560_n.jpg?_nc_cat=102&_nc_eui2=AeGScOMQUsKncQ0mL-EJ7HA_W4vBC0AJPb9IHa4rxYlZd67kSyF4hG2N1onJ2iZTNizGdde3LmMAL0DDyzsGuiBP7TDr2uosa9RwF-sFHjWqCA&_nc_ht=scontent.flas1-2.fna&oh=fee186ddbcea695816c804e31ec6359f&oe=5D6C1B8B#right)
 
 ---
 

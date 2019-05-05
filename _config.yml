@@ -9,8 +9,8 @@ email: Fill Out Form
 description: All about me.
 
 # Where can people find your site?
-url: "https://danielclough.github.io"
-baseurl: "/blog"
+url: "https://danielclough.github.io/blog"
+baseurl: ""
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
