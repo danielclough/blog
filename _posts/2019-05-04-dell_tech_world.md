@@ -4,7 +4,7 @@ title:  "Dell Technologies World 2019 Conference"
 date:   2019-05-04
 description: I shot staff photos for Aurora Events at Dell Tech World at Sands Expo. These are some of the more interesting photos from the Event.
 thumbnail: delltechworld.jpg
-categories: tech photography  
+categories: photography  
 tags: esports tech expo photography
 # Information for the author block
 author: Daniel Clough
